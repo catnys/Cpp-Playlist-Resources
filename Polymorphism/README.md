@@ -52,7 +52,7 @@ public:
 ```
 With method overriding, your magic show adapts to the actual object, whether it's a circle or another shape.
 
-## 🌈 The Wonderful World of Polymorphism
+## The Wonderful World of Polymorphism
 Polymorphism is your ticket to a wonderful world of flexibility and reusability. It makes your code sparkle with:
 
 1. Code Reusability: You can treat different objects as if they're related, promoting code reusability.
